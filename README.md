@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">Aspiring Web Developer | AWS Learner ☁️</h3>
 
-<!--
-**debug-with-abhi/debug-with-abhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Pursuing **BCA (Bachelor of Computer Applications)**
+- 💻 Passionate about **Web Development**
+- ☁️ Learning **AWS Cloud (EC2, Hosting)**
+- 🔥 Building real-world projects to improve my skills
+- 🎯 Goal: Become a **Full Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- 🌐 HTML, CSS, JavaScript  
+- ☁️ AWS EC2  
+- 🐧 Linux Basics  
+- 🔧 Git & GitHub  
+
+---
+
+## 💡 Projects
+- 🔹 **Portfolio Website**  
+  → Hosted on AWS EC2 using Apache  
+
+- 🔹 **Army Theme Portfolio**  
+  → Creative UI inspired by Indian Army  
+
+- 🔹 **JavaScript Mini Apps**  
+  → Calculator, alerts, UI interactions  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your-email@gmail.com  
+- 🐙 GitHub: https://github.com/debug-with-abhi  
+
+---
+
+## 📊 GitHub Stats
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=debug-with-abhi&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=debug-with-abhi&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact
+> I love building websites and exploring cloud technologies 🚀
+
+---
+
+⭐️ From [debug-with-abhi](https://github.com/debug-with-abhi)
