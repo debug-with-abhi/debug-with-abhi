@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Aspiring Web Developer | AWS Learner ☁️</h3>
+<h3 align="center">Aspiring Web Developer ☁️</h3>
 
 ---
 
